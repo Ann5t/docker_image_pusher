@@ -1,1 +1,1 @@
-itzg/minecraft-server:java21
+--platform=linux/arm64 itzg/minecraft-server:java21
