@@ -1,2 +1,2 @@
---platform=linux/arm/v7 itzg/minecraft-server
+--platform=linux/arm/v7 itzg/minecraft-server:java17
 --platform=linux/arm/v7 portainer/portainer-ce
