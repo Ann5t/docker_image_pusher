@@ -1,2 +1,2 @@
---platform=linux/arm64 itzg/minecraft-server:java21
---platform linux/arm64 portainer/portainer-ce:latest
+--platform=linux/arm/v8 itzg/minecraft-server
+--platform=linux/arm/v8 portainer/portainer-ce
