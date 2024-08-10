@@ -1,1 +1,2 @@
 bamos/openface
+neosmemo/memos:stable
