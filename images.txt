@@ -1,2 +1,1 @@
---platform=linux/arm/v7 itzg/minecraft-server:java17-jdk
---platform=linux/arm/v7 portainer/portainer-ce
+bamos/openface
