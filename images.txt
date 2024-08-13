@@ -1,3 +1,4 @@
 bamos/openface:latest
 neosmemo/memos:stable
 portainer/portainer-ce:latest
+xhofe/alist:latest
