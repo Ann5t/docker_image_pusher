@@ -3,6 +3,6 @@ neosmemo/memos:stable
 portainer/portainer-ce:latest
 xhofe/alist:latest
 quay.io/jupyter/minimal-notebook:x86_64-latest
-quay.io/jupyter/tensorflow-notebook:x86_64-cuda12-latest
+quay.io/jupyter/tensorflow-notebook:x86_64-cuda-latest
 quay.io/jupyter/pytorch-notebook:x86_64-cuda12-latest
 buildpack-deps:bookworm
